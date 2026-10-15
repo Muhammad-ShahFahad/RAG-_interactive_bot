@@ -4,3 +4,6 @@ langchain-core
 langchain-groq
 langchain-google-genai
 scikit-learn
+langchain-text-splitters
+langchain-chroma
+chromadb
